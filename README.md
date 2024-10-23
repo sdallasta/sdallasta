@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @sdallasta
+- 👀 I’m interested in genomics, proteomics and every other omics possible!
+- 🌱 I’m currently learning advanced pyhton, basic pearl and R
+- 💞️ I’m looking to collaborate on projects regarding genomic assembly, mapping and epigenetic information
+- 📫 How to reach me: sofia.dallasta@estudante.ufscar.br
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: i LOVE MagicTheGathering
